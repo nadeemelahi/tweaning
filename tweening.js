@@ -26,7 +26,7 @@ var E = {
    "easeInOutCirc":[ 0.785, 0.135, 0.15, 0.86 ]
 };
 
-/* copyright * 2016 * Nadeem Elahi * nadeem.elahi@gmail.com */
+
 function BZC(arr, name){
    this.classname = "BezCurve";
    this.instancename = name;
